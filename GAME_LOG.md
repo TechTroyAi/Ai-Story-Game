@@ -50,3 +50,8 @@ The Equal Echo answered with a second shadow. The normal shadow stayed at the Wa
 The clearing turned every word into a ripple in the dark basin. Veyr gave one fragment: the warned-against door is in Emberfall, and it opens inward. Then the black thread learned Veyr's voice and called “Wayfarer…” from inside the Morrowgate. Veyr warned the Wayfarer not to answer that voice or anyone in Emberfall who uses an unchosen name.
 
 **Image:** `assets/turn-004-words-in-the-basin.png`
+
+## GM Mode Change — After Turn 4
+
+**Player request:** switch to a hard, low-forgiveness game and replace the narrator voice with direct NPC/system conversation.
+**Applied:** HELL MODE and DIRECT DIALOGUE are active for the next in-world turn. Future rolls use the harsher table in `WORLD_BIBLE.md`; no story facts or previous rolls were retconned. Meta rules changes do not consume a turn or require an image.

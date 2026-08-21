@@ -3,8 +3,18 @@
 **Campaign:** Asterra — The Equal Dawn  
 **Turn:** 4 — Words in the Basin  
 **Mode:** Game Master / God of the Weave — active  
+**Difficulty:** HELL MODE — active for the next in-world turn
+**Conversation:** DIRECT DIALOGUE — narrator voice disabled
 **Player:** The Wayfarer (one player; name and past undiscovered)  
 **Last updated:** 2026-08-21
+
+## Active table rules
+
+- Low rolls have harsh, lasting consequences. Death, permanent injury, lost items, curses, broken bonds, and irreversible world changes are possible.
+- Future rolls use the HELL MODE table in `WORLD_BIBLE.md`; historical rolls are not re-rolled.
+- NPCs speak directly. I will use concise `[SYSTEM]` lines for rolls, state, and choices instead of long narration.
+- Every meaningful in-world decision still gets a transparent D100 roll. Meta questions and rule changes do not consume turns.
+- Every actual in-world turn or movement gets a new scene image. The current scene remains `assets/turn-004-words-in-the-basin.png` until you act.
 
 ## Canonical scene
 
@@ -73,4 +83,4 @@ The Wayfarer remains in the Glassroot clearing. Four routes remain open: Whisper
 
 ## God's Acts
 
-None. The Equal Echo resolved the conversation without a retcon.
+- **After Turn 4 — Difficulty and voice shift:** HELL MODE and DIRECT DIALOGUE were enabled at the player's request. No story facts or previous rolls were changed. The next in-world decision is the first roll under the harsher table.
