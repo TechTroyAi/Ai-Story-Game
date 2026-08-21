@@ -13,4 +13,4 @@ A persistent, solo, improvisational fantasy story game. The player is the only h
 
 Declare an action, dialogue, question, or plan in the decision prompt. The Game Master rolls a transparent D100 after the intent is clear, applies circumstances, narrates the result, updates the state, and creates the next scene image. There is no fixed class or single correct path: the character becomes what their choices make them.
 
-**Current status:** Turn 3 — The Lantern's Secret. The Wayfarer carries a warning about the Seventh Bell, and a second shadow points toward the Underdeep.
+**Current status:** Turn 4 — Words in the Basin. The shadow beyond the Morrowgate can imitate Veyr, and the dangerous door is in Emberfall.

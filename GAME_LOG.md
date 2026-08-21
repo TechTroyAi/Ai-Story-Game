@@ -41,3 +41,12 @@ The glass lantern opened along an invisible seam. Inside was a pale-gold flame a
 The Equal Echo answered with a second shadow. The normal shadow stayed at the Wayfarer's feet; a thinner shadow began pointing toward the Underdeep.
 
 **Image:** `assets/turn-003-the-lantern-secret.png`
+
+## Turn 4 — Words in the Basin
+
+**Player action:** “Talk to Veyr.”  
+**Roll:** raw 19 + 0 = **19**, failure with consequence.
+
+The clearing turned every word into a ripple in the dark basin. Veyr gave one fragment: the warned-against door is in Emberfall, and it opens inward. Then the black thread learned Veyr's voice and called “Wayfarer…” from inside the Morrowgate. Veyr warned the Wayfarer not to answer that voice or anyone in Emberfall who uses an unchosen name.
+
+**Image:** `assets/turn-004-words-in-the-basin.png`
