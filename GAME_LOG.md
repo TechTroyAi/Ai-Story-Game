@@ -30,3 +30,14 @@ The Ferryman revealed the name **Veyr** and his history as the keeper of the Sta
 The truthful answer was compelled, but the low roll made it costly: the Wayfarer's iron coin gained a black-edged ring, and the shadow-thread marked the Wayfarer as Veyr's passenger. The mark can open one threshold and can also give Veyr's hunters a trail.
 
 **Image:** `assets/turn-002-the-ferryman.png`
+
+## Turn 3 — The Lantern's Secret
+
+**Player action:** “Check my inventory first, if there is an inventory.”  
+**Roll:** raw 99 + 0 = **99**, mythic success.
+
+The glass lantern opened along an invisible seam. Inside was a pale-gold flame and a silver-bark message sealed in black wax. It read: **WHEN THE SEVENTH BELL RINGS, DO NOT LET THE DOOR SEE YOU.** The lantern became **The Last Light**, able to reveal hidden writing and things concealed by shadow.
+
+The Equal Echo answered with a second shadow. The normal shadow stayed at the Wayfarer's feet; a thinner shadow began pointing toward the Underdeep.
+
+**Image:** `assets/turn-003-the-lantern-secret.png`
