@@ -13,4 +13,4 @@ A persistent, solo, improvisational fantasy story game. The player is the only h
 
 Declare an action, dialogue, question, or plan in the decision prompt. The Game Master rolls a transparent D100 after the intent is clear, applies circumstances, narrates the result, updates the state, and creates the next scene image. There is no fixed class or single correct path: the character becomes what their choices make them.
 
-**Current status:** Turn 1 — The Waiting Answer. The Wayfarer's stillness has opened a fourth possibility, and the Ferryman owes one truth.
+**Current status:** Turn 2 — The Ferryman's Name. The Wayfarer is marked as a passenger of the old crossing, and four roads wait at Glassroot.
